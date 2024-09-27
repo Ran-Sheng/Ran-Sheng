@@ -38,7 +38,7 @@
 - [我的博客](https://你的个人博客链接) — 分享我在AI、统计和科学计算方面的见解和学习历程。
 
 ## 🎨 动态展示
-![](https://github-profile-trophy.vercel.app/?username=你的GitHub用户名&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=Ran-Sheng&theme=onedark)
 
 ## 📫 联系我
 - 📧 邮箱: ransheng@ruc.edu.cn
