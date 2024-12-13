@@ -1,16 +1,16 @@
 # 你好，我是冉升 👋 | Hi, I'm Ran Sheng 👋
 
 ## 关于我 | About Me
-- 🎓 我目前是中国人民大学统计专业在读博士，专注于 AI4Science，特别是利用深度学习解决微分方程的问题。  
-  I am currently a PhD candidate in Statistics at Renmin University of China, focusing on AI4Science, particularly in solving differential equations using deep learning.
-- 💻 我常用 `PyTorch` 进行深度学习模型的开发，尤其对高维微分方程和科学计算感兴趣。  
-  I frequently use `PyTorch` for deep learning model development, with a keen interest in high-dimensional differential equations and scientific computing.
-- 🧠 正在深入学习高等概率论、统计推断及其在 AI 中的应用，同时关注量子计算与 AI 的交叉领域。  
-  I am currently delving into advanced probability theory, statistical inference, and their applications in AI, while also exploring the intersection of quantum computing and AI.
-- 🌍 持续关注 AI4Science 的前沿进展，并将机器学习应用于科学计算。  
-  I stay updated with the latest developments in AI4Science and actively apply machine learning to scientific computing.
-- 📫 如何联系我: ransheng@ruc.edu.cn | [LinkedIn](https://你的LinkedIn链接)  
-  How to contact me: ransheng@ruc.edu.cn | [LinkedIn](https://你的LinkedIn链接)
+- 🎓 我目前是中国人民大学统计学专业的博士生，专注于生物化学反应过程的多尺度随机系统建模与推断。在研究中，我致力于开发和应用先进的统计方法，以揭示复杂生物系统中的随机动力学特征。
+  I am currently a PhD candidate in Statistics at Renmin University of China, focusing on the modeling and inference of multi-scale stochastic systems in biochemical reaction processes. In my research, I strive to develop and apply advanced statistical methods to uncover the stochastic dynamics of complex biological systems.
+- 💻 我主要使用 C++ 和 Python 进行数值计算和机器学习算法的实现，具备扎实的编程能力和算法设计经验。此外，我熟悉常用的数据分析和可视化工具，能够高效处理和分析大规模数据集。
+  I primarily use C++ and Python for numerical computations and the implementation of machine learning algorithms, possessing strong programming skills and experience in algorithm design. Additionally, I am proficient in common data analysis and visualization tools, enabling efficient handling and analysis of large-scale datasets.
+- 🧠 正在深入学习高等概率论、统计推断及其应用，对基础数学有浓厚兴趣，特别是在理论统计和应用统计的交叉领域探索新的研究方法。
+  I am currently delving into advanced probability theory and statistical inference, with a strong interest in fundamental mathematics, particularly in exploring new research methods at the intersection of theoretical and applied statistics.
+- 🌍 持续关注 AI4Science 的前沿进展，积极将机器学习技术应用于科学计算领域，以推动跨学科研究的发展。
+  I stay updated with the latest developments in AI4Science and actively apply machine learning techniques to the field of scientific computing, aiming to promote the advancement of interdisciplinary research.
+- 如何联系我: ransheng@ruc.edu.cn
+  How to contact me: ransheng@ruc.edu.cn
 - 💬 语言: 中文, 英文  
   Languages: Chinese, English
 
