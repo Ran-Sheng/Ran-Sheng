@@ -9,6 +9,10 @@
   I am currently delving into advanced probability theory and statistical inference, with a strong interest in fundamental mathematics, particularly in exploring new research methods at the intersection of theoretical and applied statistics.
 - 🌍 持续关注 AI4Science 的前沿进展，积极将机器学习技术应用于科学计算领域，以推动跨学科研究的发展。
   I stay updated with the latest developments in AI4Science and actively apply machine learning techniques to the field of scientific computing, aiming to promote the advancement of interdisciplinary research.
+- 🌐 个人主页 | Personal Website
+  欢迎访问我的个人主页，了解更多关于我的动态：
+  Feel free to visit my personal website to learn more about my research, projects, and updates:
+  **[zhihu.com/people/Kiwi](zhihu.com/people/Kiwi)**
 - 如何联系我: ransheng@ruc.edu.cn
   How to contact me: ransheng@ruc.edu.cn
 - 💬 语言: 中文, 英文  
