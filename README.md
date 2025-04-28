@@ -1,14 +1,14 @@
 # 你好，我是冉升 👋 | Hi, I'm Ran Sheng 👋
 
 ## 关于我 | About Me
-- 🎓 我目前是中国人民大学统计学专业的博士生，专注于生物化学反应过程的多尺度随机系统建模与推断。在研究中，我致力于开发和应用先进的统计方法，以揭示复杂生物系统中的随机动力学特征。
-  I am currently a PhD candidate in Statistics at Renmin University of China, focusing on the modeling and inference of multi-scale stochastic systems in biochemical reaction processes. In my research, I strive to develop and apply advanced statistical methods to uncover the stochastic dynamics of complex biological systems.
+- 🎓 我目前是中国人民大学统计学专业的博士生，专注于多尺度系统的正反问题。
+  I am currently a PhD student in Statistics at Renmin University of China, focusing on direct and inverse problems in multiscale systems.
 - 💻 我主要使用 C++ 和 Python 进行数值计算和机器学习算法的实现，具备扎实的编程能力和算法设计经验。此外，我熟悉常用的数据分析和可视化工具，能够高效处理和分析大规模数据集。
   I primarily use C++ and Python for numerical computations and the implementation of machine learning algorithms, possessing strong programming skills and experience in algorithm design. Additionally, I am proficient in common data analysis and visualization tools, enabling efficient handling and analysis of large-scale datasets.
-- 🧠 正在深入学习高等概率论、统计推断及其应用，对基础数学有浓厚兴趣，特别是在理论统计和应用统计的交叉领域探索新的研究方法。
-  I am currently delving into advanced probability theory and statistical inference, with a strong interest in fundamental mathematics, particularly in exploring new research methods at the intersection of theoretical and applied statistics.
-- 🌍 持续关注 AI4Science 的前沿进展，积极将机器学习技术应用于科学计算领域，以推动跨学科研究的发展。
-  I stay updated with the latest developments in AI4Science and actively apply machine learning techniques to the field of scientific computing, aiming to promote the advancement of interdisciplinary research.
+- 🧠 对于基础数学和应用数学的相关知识有一定了解。
+  Have a certain understanding of basic mathematics and applied mathematics.
+- 🌍 持续关注 AI4Science 的前沿进展，积极将机器学习技术应用于科学领域，以推动跨学科研究的发展。
+  Continue to follow the cutting-edge progress of AI4Science and actively apply machine learning technology to the scientific field to promote the development of interdisciplinary research.
 - 🌐 个人主页 | Personal Website
   欢迎访问我的个人主页，了解更多关于我的动态：
   Feel free to visit my personal website to learn more about my research, projects, and updates:
@@ -58,9 +58,6 @@
 
 - **机器学习在物理模拟中的应用**: 专注于流体力学和材料科学中的模拟与预测，开发先进的算法以提高模拟的速度和精度，实现对复杂物理系统行为的深入理解。  
   **Applications of Machine Learning in Physical Simulations**: Focusing on simulations and predictions in fluid dynamics and material science, developing advanced algorithms to enhance simulation speed and accuracy, and achieving a deeper understanding of complex physical system behaviors.
-
-- **高维统计推断**: 研究大数据背景下的高效统计推断算法，包括变量选择、降维技术和大规模数据处理，以支持复杂系统的分析与理解。  
-  **High-dimensional Statistical Inference**: Investigating efficient statistical inference algorithms in the context of big data, including variable selection, dimensionality reduction techniques, and large-scale data processing to support the analysis and understanding of complex systems.
 
 - **随机系统建模**: 专注于生物化学反应过程中的多尺度随机系统建模，应用随机微分方程和马尔可夫过程等工具，结合机器学习方法优化模型参数，实现对复杂生物系统行为的精准预测与分析。  
   **Stochastic System Modeling**: Specializing in multi-scale stochastic system modeling in biochemical reaction processes, utilizing tools such as stochastic differential equations and Markov processes, and integrating machine learning methods to optimize model parameters for precise prediction and analysis of complex biological system behaviors.
