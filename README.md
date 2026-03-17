@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Ran Sheng (冉升) 👋</h1>
-  <p><b>Bridging Rigorous Statistics with Applied Mathematics in AI4Science</b></p>
+  <p><b>Bridging the Gap from Pure Mathematics to Real-World Engineering</b></p>
   <p>PhD Student @ Renmin University of China (RUC) & BIMSA</p>
   
   <a href="https://zhihu.com/people/Kiwi"><img src="https://img.shields.io/badge/Zhihu-知乎主页-blue?logo=zhihu&style=flat-square" alt="Zhihu"/></a>
@@ -11,19 +11,22 @@
 
 ## 🔭 About Me | 关于我
 
-我是一名致力于 **AI4Science** 的研究者，拥有统计学与应用数学的双重学术背景。目前在中国人民大学 (RUC) 与北京雁栖湖应用数学研究院 (BIMSA) 进行联合培养。
-我的研究旨在用统计学的“上帝视角”与机器学习的“算力引擎”，解开复杂物理与生物系统的高维黑盒。
+我是一名致力于打破学科壁垒的研究者与工程师，拥有统计学与应用数学的双重学术背景。目前在中国人民大学 (RUC) 与北京雁栖湖应用数学研究院 (BIMSA) 进行联合培养。
+我不受限于特定的应用领域。我的核心竞争力在于：**拥有扎实的基础数学底盘（拓扑/测度/代数），并具备将其降维转化为工业级算法代码的工程实战经验。**
+从抽象空间到物理硬件，我是那个负责“修桥”的人。
 
-- 🧠 **Research Focus:** Causal Inference (因果推断), Multi-scale Modeling (多尺度建模), Model Reduction (模型降阶).
-- 🔬 **Application Domains:** Complex Systems in Biology, Healthcare, and Quantitative Finance.
+- 🧠 **Research Focus:** Multi-scale Systems (多尺度系统), Forward/Inverse Problems in PDEs/ODEs (微分方程正反问题), Causal Inference (因果推断).
+- ⚙️ **Core Identity:** Translator & Architect between Abstract Mathematical Theories and Concrete Engineering Solutions.
 - 💬 **Languages:** Bilingual proficiency in English & 中文.
 
 ## ⚡ Core Arsenal | 核心武器库
 
-### Research Interests
-- **AI4Science:** Integrating ML with differential equations (ODEs/PDEs/SDEs) to accelerate scientific computing.
-- **Causal Inference & Statistics:** High-dimensional data analysis, Bayesian inference, and foundational data generation.
-- **Stochastic Dynamics:** Markov processes and numerical methods for multi-scale stochastic systems.
+我的武器库不是用来跑通某个数据集的，而是用来**解构复杂系统物理机制**的：
+
+### The Math-to-Engineering Pipeline
+- **Continuous Physics & Dynamics:** Solving Forward/Inverse problems using Deep Learning and numerical methods (ODEs/PDEs/SDEs) to model multi-scale physical environments.
+- **Causal Discovery & Reasoning:** Moving beyond mere statistical correlation to uncover invariant causal mechanisms in highly complex, heterogeneous systems.
+- **Algorithmic Execution:** Translating high-dimensional topological and algebraic constraints into scalable PyTorch/C++ optimization loops.
 
 ### Tech Stack
 - **Languages:** `Python` • `C++` • `R`
@@ -32,29 +35,29 @@
 
 ## 🚀 Selected Projects | 近期实战
 
-> **[1] Knowledge Distillation for Multi-scale Dynamics**
+> **[1] Inverse Modeling for Physical Systems**
 > 
-> *Model Reduction / Teacher-Student Framework*
+> *PDEs/ODEs / Deep Learning / Engineering*
 > 
-> Leveraging knowledge distillation to achieve extreme model reduction and efficient inference for highly complex, multi-scale physical systems.
+> Establishing robust forward and inverse models (e.g., magnetic field inversion from sensor data, complex EDA routing constraints) by embedding strict mathematical physics into neural network architectures.
 
-> **[2] SDE-Driven Biological System Modeling**
+> **[2] Causal Representation Learning in Multi-scale Dynamics**
 > 
-> *Stochastic Differential Equations / ML*
+> *Causal Inference / Model Reduction*
 > 
-> Combining stochastic processes with deep learning to model and predict the multi-scale dynamics of biochemical reaction networks.
+> Leveraging continuous optimization (e.g., NOTEARS, IRM) to discover invariant causal graphs from highly chaotic, multi-scale observational data, bridging the gap between statistical noise and true physical laws.
 
-> **[3] Generative Statistical Modeling for Quantitative Finance**
+> **[3] Generative & Stochastic Modeling for Uncertainty**
 > 
-> *Generative AI / Risk Prediction*
+> *SDEs / Generative AI*
 > 
-> Building robust, generative statistical models for market simulation and extreme risk prediction under uncertainty.
+> Building stochastic differential equation-driven generative models to predict extreme risks and simulate highly uncertain, dynamic environments.
 
 ## 🎯 Vision | 职业愿景
 
-- Push the boundaries of **AI4Science** from theoretical proofs to industrial deployments.
-- Fuse **Causal Inference** with Deep Learning to build robust models that understand *mechanisms*, not just *correlations*.
-- Drive interdisciplinary innovation across mathematics, physics, and computer science.
+- To be the ultimate **"Gap-Bridger"**: Translating pure mathematical theorems into functional, high-performance industrial code.
+- To fuse **Causal Topology** with Machine Learning, ensuring AI systems understand the *physics* of the world, not just the *data distributions*.
+- To tackle the most complex, unstructured inverse problems across any domain by applying rigorous mathematical scaffolding.
 
 <br/>
 
