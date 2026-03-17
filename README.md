@@ -23,7 +23,6 @@
 
 我的武器库不是用来跑通某个数据集的，而是用来**解构复杂系统物理机制**的：
 
-### The Math-to-Engineering Pipeline
 - **Continuous Physics & Dynamics:** Solving Forward/Inverse problems using Deep Learning and numerical methods (ODEs/PDEs/SDEs) to model multi-scale physical environments.
 - **Causal Discovery & Reasoning:** Moving beyond mere statistical correlation to uncover invariant causal mechanisms in highly complex, heterogeneous systems.
 - **Algorithmic Execution:** Translating high-dimensional topological and algebraic constraints into scalable PyTorch/C++ optimization loops.
@@ -32,6 +31,20 @@
 - **Languages:** `Python` • `C++` • `R`
 - **Frameworks:** `PyTorch` • `TensorFlow` • `SciPy`
 - **Infrastructure:** `Docker` • `Kubernetes` • `AWS/GCP/Azure`
+
+---
+
+## ⚙️ Standard Operating Procedure (SOP) | 降维与工程变现流水线
+
+面对真实世界中极度复杂、充满噪音与黑盒的工程/物理难题，我遵循以下五步跨维度解题协议：
+
+1. **Continuous Relaxation (离散现实的连续化):** 运用测度论与拓扑直觉，将坚硬的离散关系（如因果有向无环图 DAG、残缺的物理边界）映射为泛函空间中的连续算子与微分方程，为优化铺平道路。
+2. **Autograd Engine Routing (自动微分引擎接管):** 将多尺度系统构建为庞大的计算图，利用深度学习框架的多元链式法则，实现从宏观 Loss 到微观参数的无损反向信息传递。
+3. **Algebraic & Topological Constraints (算力与数学约束):** 部署拉格朗日乘子法等数值优化策略，为算力引擎套上严格的代数方程锁（如 $h(W)=0$），逼迫参数在符合拓扑规律的流形上收敛。
+4. **Causal & Invariant Navigation (因果与不变量导航):** 将结构因果模型 (SCM) 与不变风险最小化 (IRM) 写入惩罚项，确保算力穿透统计噪音，锁定跨环境绝对不变的物理因果机制。
+5. **Latent Space Projection (高维坍缩与诊断干预):** 将极高维的张量震荡降维投射至可视化流形，解剖模型隐空间，实现对复杂动力学系统的“Human-in-the-loop”直觉诊断与物理干预。
+
+---
 
 ## 🚀 Selected Projects | 近期实战
 
