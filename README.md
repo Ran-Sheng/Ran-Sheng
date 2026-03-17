@@ -1,64 +1,64 @@
-# 你好，我是冉升 👋 | Hi, I'm Ran Sheng 👋
+<div align="center">
+  <h1>Hi there, I'm Ran Sheng (冉升) 👋</h1>
+  <p><b>Bridging Rigorous Statistics with Applied Mathematics in AI4Science</b></p>
+  <p>PhD Student @ Renmin University of China (RUC) & BIMSA</p>
+  
+  <a href="https://zhihu.com/people/Kiwi"><img src="https://img.shields.io/badge/Zhihu-知乎主页-blue?logo=zhihu&style=flat-square" alt="Zhihu"/></a>
+  <a href="mailto:ransheng@ruc.edu.cn"><img src="https://img.shields.io/badge/Email-ransheng@ruc.edu.cn-red?logo=gmail&style=flat-square" alt="Email"/></a>
+</div>
 
-## 🎓 关于我 | About Me
-- **博士生 | PhD Student**  
-  中国人民大学 (RUC) 统计学专业 & 北京雁栖湖应用数学研究院 (BIMSA) 联培  
-  - 在 **BIMSA** 从事 *应用数学* 研究：多尺度建模 & 机器学习  
-  - 在 **RUC** 从事 *统计学* 研究：因果推断  
+<br/>
 
-- **研究方向 | Research Focus**  
-  - 应用机器学习进行 **多尺度建模与模型降阶**  
-  - 探索 **因果推断新方法**  
-  - 应用场景涵盖 **生物、医疗、金融** 等复杂系统  
+## 🔭 About Me | 关于我
 
-- **联系方式 | Contact**  
-  - 🌐 [个人主页 / Website](https://zhihu.com/people/Kiwi)  
-  - 📧 ransheng@ruc.edu.cn  
-  - 💬 语言: 中文, English  
+我是一名致力于 **AI4Science** 的研究者，拥有统计学与应用数学的双重学术背景。目前在中国人民大学 (RUC) 与北京雁栖湖应用数学研究院 (BIMSA) 进行联合培养。
+我的研究旨在用统计学的“上帝视角”与机器学习的“算力引擎”，解开复杂物理与生物系统的高维黑盒。
 
----
+- 🧠 **Research Focus:** Causal Inference (因果推断), Multi-scale Modeling (多尺度建模), Model Reduction (模型降阶).
+- 🔬 **Application Domains:** Complex Systems in Biology, Healthcare, and Quantitative Finance.
+- 💬 **Languages:** Bilingual proficiency in English & 中文.
 
-## 🔧 技能概览 | Core Skills
+## ⚡ Core Arsenal | 核心武器库
 
-- **编程语言**: `Python`, `C++`, `R`  
-- **框架与工具**: `PyTorch`, `TensorFlow`, `Docker`, `Kubernetes`, `Matplotlib`, `NumPy`, `SciPy`  
-- **数据库与云服务**: `MySQL`, `SQLite`, `AWS`, `Google Cloud`, `Azure`  
+### Research Interests
+- **AI4Science:** Integrating ML with differential equations (ODEs/PDEs/SDEs) to accelerate scientific computing.
+- **Causal Inference & Statistics:** High-dimensional data analysis, Bayesian inference, and foundational data generation.
+- **Stochastic Dynamics:** Markov processes and numerical methods for multi-scale stochastic systems.
 
-**领域专长 | Domain Expertise**  
-- **机器学习 (ML)**: 深度学习、模型压缩、知识蒸馏、多尺度系统中的应用  
-- **概率与统计**: 高维数据分析、贝叶斯推断、统计建模与数据生成  
-- **多尺度建模**: ODE / PDE / SDE 数值方法、随机系统建模与降阶  
-- **应用方向**: 生物系统建模、医疗数据预测、金融风险建模  
+### Tech Stack
+- **Languages:** `Python` • `C++` • `R`
+- **Frameworks:** `PyTorch` • `TensorFlow` • `SciPy`
+- **Infrastructure:** `Docker` • `Kubernetes` • `AWS/GCP/Azure`
 
----
+## 🚀 Selected Projects | 近期实战
 
-## 🌟 研究兴趣 | Research Interests
-- **AI4Science**: 结合机器学习与微分方程，提升科学计算效率  
-- **多尺度系统建模**: 随机微分方程、马尔可夫过程、模型降阶  
-- **统计基础模型与数据生成**: 用于复杂系统的不确定性建模  
-- **跨领域应用**: 生物、医疗、金融中的预测与模拟  
+> **[1] Knowledge Distillation for Multi-scale Dynamics**
+> 
+> *Model Reduction / Teacher-Student Framework*
+> 
+> Leveraging knowledge distillation to achieve extreme model reduction and efficient inference for highly complex, multi-scale physical systems.
 
----
+> **[2] SDE-Driven Biological System Modeling**
+> 
+> *Stochastic Differential Equations / ML*
+> 
+> Combining stochastic processes with deep learning to model and predict the multi-scale dynamics of biochemical reaction networks.
 
-## 📂 近期项目 | Selected Projects
-- **知识蒸馏在多尺度建模中的应用**  
-  利用教师-学生网络框架，实现复杂系统的模型降阶与高效推断。  
+> **[3] Generative Statistical Modeling for Quantitative Finance**
+> 
+> *Generative AI / Risk Prediction*
+> 
+> Building robust, generative statistical models for market simulation and extreme risk prediction under uncertainty.
 
-- **基于 SDE 的生物系统建模**  
-  结合随机过程与机器学习，对生物化学反应过程进行多尺度建模与预测。  
+## 🎯 Vision | 职业愿景
 
-- **数据生成模型在金融中的应用**  
-  构建生成式统计模型，用于风险预测与市场模拟。  
+- Push the boundaries of **AI4Science** from theoretical proofs to industrial deployments.
+- Fuse **Causal Inference** with Deep Learning to build robust models that understand *mechanisms*, not just *correlations*.
+- Drive interdisciplinary innovation across mathematics, physics, and computer science.
 
----
+<br/>
 
-## 🎯 职业目标 | Career Goals
-- 推动 **AI4Science** 技术在科研与工业中的落地  
-- 融合 **统计建模与机器学习**，应对复杂系统挑战  
-- 促进 **跨学科合作**，推动科学发现与工程创新  
-
----
-
-## 📈 GitHub 统计 | GitHub Stats
-![Ran Sheng’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ran-Sheng&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ran-Sheng&layout=compact&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ran-Sheng&show_icons=true&theme=radical&hide_border=true" alt="Ran Sheng's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ran-Sheng&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
